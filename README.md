@@ -23,3 +23,8 @@ https://ngwanexsolutions.vercel.app
 ```bash
 npm install
 npm run dev
+
+License
+
+This project is proprietary and owned by NgwaneXSolutions (Pty) Ltd.
+All rights reserved.
