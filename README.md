@@ -1,16 +1,25 @@
 # NgwaneXSolutions — Futuristic Website (Next.js + Tailwind)
 
-## Run locally
-1) Install Node.js 18+
-2) In this folder:
-   - `npm install`
-   - `npm run dev`
-3) Open http://localhost:3000
+NgwaneXSolutions is a futuristic software and automation studio building premium web platforms, automation systems, and data-driven solutions for modern businesses.
 
-## Deploy to Vercel (recommended)
-1) Push this folder to GitHub
-2) Vercel → New Project → Import the repo → Deploy
+ **Live site:**  
+https://ngwanexsolutions.vercel.app
 
-## Edit content
-- Main homepage: `app/page.tsx`
-- Theme styles: `tailwind.config.ts` and `app/globals.css`
+## What We Do
+- Web & mobile application development  
+- Automation & system integrations  
+- Data analytics & dashboards  
+- Security-first, scalable solutions  
+
+## Tech Stack
+- **Next.js 14 (App Router)**
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **Vercel**
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
