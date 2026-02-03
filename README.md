@@ -25,7 +25,7 @@ npm install
 npm run dev
 
 
-```License
+##```License
 
-This project is proprietary and owned by NgwaneXSolutions (Pty) Ltd.
-All rights reserved.
+**This project is proprietary and owned by NgwaneXSolutions (Pty) Ltd.
+All rights reserved.**
