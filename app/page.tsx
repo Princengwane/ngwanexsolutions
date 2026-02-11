@@ -3,6 +3,7 @@ import Nav from "@/components/Nav";
 import MouseGlow from "@/components/MouseGlow";
 import GlowCard from "@/components/GlowCard";
 import Button from "@/components/Button";
+import GoogleLeadForm from "@/components/GoogleLeadForm";
 import { Cpu, Rocket, Code2, BarChart3, Workflow, ShieldCheck, Sparkles, Users } from "lucide-react";
 
 export default function Home() {
@@ -207,17 +208,7 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="rounded-[2rem] border border-white/10 bg-space-950/40 p-8">
-            <div className="text-xs text-white/60">Quick message template</div>
-            <div className="mt-3 rounded-3xl border border-white/10 bg-white/5 p-5 text-sm text-white/70">
-              Hi NgwaneXSolutions,My name is... I’m interested in (website / app / automation / analytics). My budget range is (…).
-              My timeline is (…). Please contact me on (email/WhatsApp).
-            </div>
-
-            <p className="mt-4 text-xs text-white/50">
-              Tip: Copy the message above and send it on WhatsApp for the fastest response.
-            </p>
-          </div>
+          <GoogleLeadForm />
         </div>
 
         <div className="mt-10 flex items-center justify-between gap-4 border-t border-white/10 pt-6 text-xs text-white/50">
